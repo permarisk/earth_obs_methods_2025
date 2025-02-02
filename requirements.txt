@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+xarray
+scipy
+itables
+xclim
+pyextremes
+gdown
+netcdf4
+h5netcdf
