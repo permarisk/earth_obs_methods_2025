@@ -10,3 +10,6 @@ pyextremes
 gdown
 netcdf4
 h5netcdf
+rioxarray
+rasterio
+dask
